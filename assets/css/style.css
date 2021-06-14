@@ -17,6 +17,8 @@ button {
     font-weight: 700;
     width: 100%;
     max-width: 150px;
+    cursor: pointer;
+    border: 1px solid transparent;
 }
 
 div.sedans {
@@ -60,4 +62,24 @@ p {
     font-weight: 400;
     color: hsla(0, 0%, 100%, 0.75);
     padding: 20px 0;
+}
+
+button:hover {
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+}
+
+@media (min-width: 768px) {
+    .container {
+        display: flex;
+    }
+
+    div.sedans {
+        border-radius: 8px 0 0 8px;
+    }
+
+    div.luxury {
+        border-radius: 0 8px 8px 0;
+    }
 }

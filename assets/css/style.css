@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: hsl(0, 0%, 95%);
+    padding: 40px 10px;
+}
+
+button {
+    border-radius: 25px;
+    border: none;
+    padding: 16px;
+    background: hsl(0, 0%, 95%);
+    font-weight: 700;
+    width: 100%;
+    max-width: 150px;
+}
+
+div.sedans {
+    background: hsl(31, 77%, 52%);
+    border-radius: 8px 8px 0 0;
+}
+.sedans button {
+    color: hsl(31, 77%, 52%);
+}
+
+div.suvs {
+    background: hsl(184, 100%, 22%);
+}
+.suvs button {
+    color: hsl(184, 100%, 22%);
+}
+
+div.luxury {
+    background: hsl(179, 100%, 13%);
+    border-radius: 0 0 8px 8px;
+}
+.luxury button {
+    color: hsl(179, 100%, 13%);
+}
+
+.card {
+    color: white;
+    padding: 40px;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    padding: 20px 0;
+}
+
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 20px 0;
+}

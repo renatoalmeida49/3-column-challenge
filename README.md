@@ -60,4 +60,4 @@ I work with Vue. In Vue it's easy to use CSS pre-processors. But I really would 
 
 ## Acknowledgments
 
-[Matheus Avila](https://github.com/mateusavila) gave some valious tips about HTML and CSS. A new knowledge I will apply in all my projects from now on.
+[Mateus Avila](https://github.com/mateusavila) gave some valious tips about HTML and CSS. A new knowledge I will apply in all my projects from now on.

@@ -13,6 +13,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -55,3 +56,8 @@ I work with Vue. In Vue it's easy to use CSS pre-processors. But I really would 
 
 - Website - [Renato Novaes](https://www.renatonovaes.dev)
 - Instagram - [@novaes_r](https://www.instagram.com/novaes_r)
+  
+
+## Acknowledgments
+
+[Matheus Avila](https://github.com/mateusavila) gave some valious tips about HTML and CSS. A new knowledge I will apply in all my projects from now on.

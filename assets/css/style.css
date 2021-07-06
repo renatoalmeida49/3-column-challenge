@@ -12,13 +12,14 @@ body {
 button {
     border-radius: 25px;
     border: none;
-    padding: 16px;
+    padding: 12px;
     background: hsl(0, 0%, 95%);
     font-weight: 700;
     width: 100%;
     max-width: 150px;
     cursor: pointer;
     border: 1px solid transparent;
+    transition: all .3s;
 }
 
 div.sedans {
@@ -81,5 +82,9 @@ button:hover {
 
     div.luxury {
         border-radius: 0 8px 8px 0;
+    }
+
+    button {
+        padding: 16px;
     }
 }

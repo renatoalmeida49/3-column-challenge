@@ -71,6 +71,15 @@ button:hover {
     border: 1px solid white;
 }
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    padding: 40px;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 @media (min-width: 768px) {
     .container {
         display: flex;

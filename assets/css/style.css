@@ -17,7 +17,6 @@ body {
 .container {
     width: 100%;
     max-width: 950px;
-
 }
 
 button {
@@ -61,7 +60,7 @@ div.luxury {
     padding: 40px;
 }
 
-h2 {
+.title {
     text-transform: uppercase;
     font-family: 'Big Shoulders Display', cursive;
     font-weight: 700;
